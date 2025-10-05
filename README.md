@@ -31,6 +31,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 💬 Feel free to open an issue or discuss solutions.
 
 📫 Email: mehrasoham51@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/soham-mehra-406a62227/
 
 ---
