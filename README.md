@@ -37,3 +37,11 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 ---
 
 ⭐ If you find this helpful or want to track your own journey — consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
