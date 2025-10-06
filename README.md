@@ -71,4 +71,12 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | ------- |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
