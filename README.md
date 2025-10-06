@@ -44,9 +44,18 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1642-water-bottles) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
