@@ -45,6 +45,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | ------- |
 | [0009-palindrome-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1642-water-bottles) |
@@ -56,6 +57,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -77,14 +79,17 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0001-two-sum](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -94,6 +99,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
