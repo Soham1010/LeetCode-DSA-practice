@@ -80,6 +80,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0004-median-of-two-sorted-arrays](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -108,4 +110,5 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0027-remove-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
