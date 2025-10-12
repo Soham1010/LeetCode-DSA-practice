@@ -46,6 +46,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0009-palindrome-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1642-water-bottles) |
@@ -114,4 +115,8 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0027-remove-element](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
