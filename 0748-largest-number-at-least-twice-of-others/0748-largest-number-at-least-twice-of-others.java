@@ -4,24 +4,22 @@ class Solution {
     // 2 var 
     // one loop
 
-    int max = 0;
+    int max = -1;
+    int smax = -1;
     int index = 0;
-    int diff = 0;
-    int i=0;
 
-    for (; i<nums.length; i++) {
+    for (int i=0; i<nums.length; i++) {
         if (max < nums[i]) {
-            index = i;
+            smax = max;
             max = nums[i];
+            index = i;
+        } else if (smax < nums[i]) {
+            smax = nums[i];
         }
     }
-    i=0;
-    for (; i<nums.length; i++) {
-        if (nums[i] == max) {
-            continue;
-        }
-        int t_diff = max - 2* nums[i];
-        if (t_diff<0) {return -1;}
+    int diff = max -(2*smax);
+    if (diff <0) {
+        return -1;
     }
     return index;
 
