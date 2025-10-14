@@ -82,6 +82,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0027-remove-element](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -93,6 +94,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
