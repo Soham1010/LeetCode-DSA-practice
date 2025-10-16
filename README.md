@@ -86,12 +86,14 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,8 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
