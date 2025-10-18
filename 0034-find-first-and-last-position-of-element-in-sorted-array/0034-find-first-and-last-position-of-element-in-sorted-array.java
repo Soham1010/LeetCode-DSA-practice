@@ -11,7 +11,7 @@ class Solution {
                 int left = mid;
                 int right = mid;
                 // left / right
-                while (right + 1 < len && nums[mid+1] == target) {
+                while (right + 1 < len) {
                     if (nums[right+1] == target) {
                         // mid++;
                         right++;
