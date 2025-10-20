@@ -84,6 +84,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0033-search-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -116,6 +117,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0033-search-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0792-binary-search) |
