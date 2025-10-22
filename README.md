@@ -88,6 +88,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
