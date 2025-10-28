@@ -67,6 +67,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -84,6 +85,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0033-search-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,6 +131,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
