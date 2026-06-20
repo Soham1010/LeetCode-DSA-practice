@@ -47,6 +47,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0319-bulb-switcher) |
+| [0509-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1642-water-bottles) |
@@ -63,16 +64,19 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 ## Array
