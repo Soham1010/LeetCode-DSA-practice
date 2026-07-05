@@ -107,6 +107,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
