@@ -104,6 +104,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0792-binary-search](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0792-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -119,10 +120,12 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
