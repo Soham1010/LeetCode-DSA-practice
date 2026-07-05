@@ -44,6 +44,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0319-bulb-switcher) |
@@ -97,6 +98,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0075-sort-colors](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -154,6 +156,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0027-remove-element](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Brainteaser
 |  |
