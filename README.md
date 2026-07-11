@@ -106,6 +106,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0733-flood-fill](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0792-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0075-sort-colors](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -159,6 +161,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Brainteaser
 |  |
