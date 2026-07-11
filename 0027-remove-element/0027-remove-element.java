@@ -1,21 +1,13 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int len = nums.length;
-        int[] arr = new int[len];
-        int occ = 0;
-        int arr_i = 0;
+       int ptr = 0;
 
-        for (int i=0; i<len; i++) {
-            if (nums[i] == val) {
-                occ++;
-                continue;
+       for (int i=0; i<nums.length; i++) {
+            if (nums[i] != val) {
+                nums[ptr] = nums[i];
+                ptr++;
             }
-            arr[arr_i] = nums[i];
-            arr_i++;
-        }
-        for (int k=0; k<len; k++) {
-            nums[k] = arr[k];
-        }
-        return len-occ;
+       }
+       return ptr;
     }
 }
