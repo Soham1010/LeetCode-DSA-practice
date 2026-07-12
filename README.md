@@ -99,6 +99,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -188,4 +189,8 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
