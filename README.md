@@ -103,6 +103,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0268-missing-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
