@@ -75,6 +75,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/1236-n-th-tribonacci-number) |
@@ -97,6 +98,7 @@ If you’re also grinding DSA or learning algorithms — let’s connect!
 | [0035-search-insert-position](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham1010/LeetCode-DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
