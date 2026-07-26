@@ -1,27 +1,12 @@
 class Solution:
-    def maxProfit(self, nums):
-        # code here
-        """
-        Var to track::
-        lowest val,              than all 
-        diff b/w low & high val
-        """
+    def maxProfit(self, prices: list[int]) -> int:
+        min_price = float('inf')
+        max_profit = 0
         
-        l = 0
-        
-        max_sum = 0
-        
-        for i in range(len(nums)):
-            # Left condition
-            if nums[i] < nums[l]:
-                l = i
-            
-            # right condition sum
-            curr_sum = nums[i] - nums[l] 
-            if curr_sum > max_sum:
-                max_sum = curr_sum
+        for price in prices:
+            if price < min_price:
+                min_price = price
+            elif price - min_price > max_profit:
+                max_profit = price - min_price
                 
-        return max_sum
-                
-            
-                
+        return max_profit
