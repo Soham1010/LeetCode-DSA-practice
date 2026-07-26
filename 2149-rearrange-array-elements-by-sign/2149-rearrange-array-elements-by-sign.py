@@ -1,19 +1,14 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        pa = []
-        na = []
-        out = []
-
-        p = 0
-        n = 0
-        for i in range(len(nums)):
-            # +ve
-            if (nums[i] >= 0):
-                pa.append(nums[i])
-            else:
-                na.append(nums[i])
+        res = [0] * len(nums)
+        pos, neg = 0, 1  # Positives go to even indices, negatives to odd
         
-        for i in range(len(pa)):
-            out.append(pa[i])
-            out.append(na[i])
-        return out
+        for num in nums:
+            if num > 0:
+                res[pos] = num
+                pos += 2
+            else:
+                res[neg] = num
+                neg += 2
+                
+        return res
